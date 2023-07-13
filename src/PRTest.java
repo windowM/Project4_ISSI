@@ -1,5 +1,12 @@
+import animal.Animal;
+
 public class PRTest {
     public static void main(String[] args) {
+
+        Animal animal = new Amimal();
+        Animal.name = "cong";
+        Animal.color = "blue";
+
     	Car car = new Car();
     	car.color = "red";
     	car.type = "truck";
@@ -12,8 +19,9 @@ public class PRTest {
         Lee.setId("aaaa@naver.com");
         Lee.setName("aaaa");
 
+
         System.out.println("Hello PR");
-main
+
 	    System.out.println("haha");
         System.out.println("abc");
         System.out.println("cjekcs");
