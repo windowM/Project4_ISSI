@@ -1,7 +1,10 @@
 import animal.Animal;
+import water.water;
 
 public class PRTest {
     public static void main(String[] args) {
+
+        water water = new water();
 
         Animal animal = new Amimal();
         Animal.name = "cong";
