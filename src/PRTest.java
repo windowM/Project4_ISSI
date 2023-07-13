@@ -2,7 +2,7 @@ import animal.Animal;
 
 public class PRTest {
     public static void main(String[] args) {
-
+        System.out.println("rabbit");
         Animal animal = new Amimal();
         Animal.name = "cong";
         Animal.color = "blue";
